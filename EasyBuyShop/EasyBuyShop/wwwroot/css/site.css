@@ -1,0 +1,38 @@
+﻿body {
+}
+
+
+.head {
+    width: auto;
+    background-color: cyan;
+}
+
+.navigation {
+    display: inline-block;
+    height: 30px;
+    background-color: aquamarine;
+    
+}
+
+.item_table {
+    width: auto;
+    height: auto;
+    border: double 5px chartreuse;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+}
+
+.img_cell{
+    width:150px;
+    height:150px;
+}
+
+.table {
+    height: 600px;
+    width: 1200px;
+    border: groove;
+    margin: 0px 50px 50px 50px;
+
+}
